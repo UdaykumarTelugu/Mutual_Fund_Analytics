@@ -1,0 +1,5 @@
+2026-07-15 14:03:39,864 | TEST | Test Co | 2023 | Tech | ROCE | 15.0000 | 9.0000 | 6.0000 | Formula Difference | Calculated ROCE deviates from source by > 5% | Review numerator/denominator inclusions (e.g. leases/goodwill)
+2026-07-15 14:03:39,865 | TEST | Test Co | 2023 | Tech | ROE | 20.0000 | 18.0000 | 2.0000 | Data Source Issue | Source ROE anomalous or calculated ROE deviates | Use calculated ROE for analytics
+2026-07-15 14:03:39,867 | TEST | Test Co | 2023 | Tech | General | 10.0 | None | N/A | Missing Data | Missing benchmark field | Ignore or fetch source
+2026-07-15 14:03:39,867 | TEST | Test Co | 2023 | Tech | General | None | 10.0 | N/A | Missing Data | Missing calculated field | Check inputs
+2026-07-15 14:03:39,867 | TEST | Test Co | 2023 | Tech | General | 10.0 | 10.0 | N/A | Validation Failure | Negative denominator | Verify accounting principles
